@@ -1,0 +1,8 @@
+D:\aldorythem\2023\summer\420-AP1-AS\Banking_system_project\Banking_system_project\bin\Debug\Banking_system_project.exe.config
+D:\aldorythem\2023\summer\420-AP1-AS\Banking_system_project\Banking_system_project\bin\Debug\Banking_system_project.exe
+D:\aldorythem\2023\summer\420-AP1-AS\Banking_system_project\Banking_system_project\bin\Debug\Banking_system_project.pdb
+D:\aldorythem\2023\summer\420-AP1-AS\Banking_system_project\Banking_system_project\obj\Debug\Banking_system_project.csproj.AssemblyReference.cache
+D:\aldorythem\2023\summer\420-AP1-AS\Banking_system_project\Banking_system_project\obj\Debug\Banking_system_project.csproj.SuggestedBindingRedirects.cache
+D:\aldorythem\2023\summer\420-AP1-AS\Banking_system_project\Banking_system_project\obj\Debug\Banking_system_project.csproj.CoreCompileInputs.cache
+D:\aldorythem\2023\summer\420-AP1-AS\Banking_system_project\Banking_system_project\obj\Debug\Banking_system_project.exe
+D:\aldorythem\2023\summer\420-AP1-AS\Banking_system_project\Banking_system_project\obj\Debug\Banking_system_project.pdb
